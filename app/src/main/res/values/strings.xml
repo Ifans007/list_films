@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">List Films</string>
+
+    <string name="network_error">Network Error!</string>
+    <string name="unknown_error">Unknown Error!</string>
+    <string name="loading_source_of_quotes">Loading.</string>
+</resources>
